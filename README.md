@@ -7,3 +7,4 @@ A curated collection of coding challenges solved with JavaScript, focusing on op
 | 02 | Palindrome Number | LeetCode | Easy | [Check Solution](./LeetCode/Easy/02-Palindrome-Number/solution.js) |
 | 03 | Longest Common Prefix | LeetCode | Easy | [Check Solution](./LeetCode/Easy/03-Longest-Common-Prefix/solution.js) |
 | 04 | Valid Parentheses | LeetCode | Easy | [Check Solution](./LeetCode/Easy/04-Valid-Parentheses/solution.js) |
+| 05 | Merge Two Sorted Lists | LeetCode | Easy | [Check Solution](./LeetCode/Easy/05-Merge-Two-Sorted-Lists/solution.js) |

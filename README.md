@@ -13,3 +13,13 @@ A curated collection of coding challenges solved with JavaScript, focusing on op
 | 08 | Length of Last Word | LeetCode | Easy | [Check Solution](./LeetCode/Easy/08-Length-of-Last-Word/solution.js) |
 | 09 | Plus One | LeetCode | Easy | [Check Solution](./LeetCode/Easy/09-Plus-One/solution.js) |
 | 10 | Add Binary | LeetCode | Easy | [Check Solution](./LeetCode/Easy/10-Add-Binary/solution.js) |
+| 11 | Remove Duplicates from Sorted Array | LeetCode | Easy | [Check Solution](./LeetCode/Easy/11-Remove-Duplicates/solution.js) |
+| 12 | Remove Element | LeetCode | Easy | [Check Solution](./LeetCode/Easy/12-Remove-Element/solution.js) |
+| 13 | Sqrt(x) | LeetCode | Easy | [Check Solution](./LeetCode/Easy/13-Sqrt-x/solution.js) |
+| 14 | Climbing Stairs | LeetCode | Easy | [Check Solution](./LeetCode/Easy/14-Climbing-Stairs/solution.js) |
+| 15 | Merge Sorted Array | LeetCode | Easy | [Check Solution](./LeetCode/Easy/15-Merge-Sorted-Array/solution.js) |
+| 16 | Binary Tree Inorder Traversal | LeetCode | Easy | [Check Solution](./LeetCode/Easy/16-Binary-Tree-Inorder-Traversal/solution.js) |
+| 17 | Symmetric Tree | LeetCode | Easy | [Check Solution](./LeetCode/Easy/17-Symmetric-Tree/solution.js) |
+| 18 | Max Depth of Binary Tree | LeetCode | Easy | [Check Solution](./LeetCode/Easy/18-Maximum-Depth-of-Binary-Tree/solution.js) |
+| 19 | Single Number | LeetCode | Easy | [Check Solution](./LeetCode/Easy/19-Single-Number/solution.js) |
+| 20 | Valid Palindrome | LeetCode | Easy | [Check Solution](./LeetCode/Easy/20-Valid-Palindrome/solution.js) |

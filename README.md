@@ -23,3 +23,8 @@ A curated collection of coding challenges solved with JavaScript, focusing on op
 | 18 | Max Depth of Binary Tree | LeetCode | Easy | [Check Solution](./LeetCode/Easy/18-Maximum-Depth-of-Binary-Tree/solution.js) |
 | 19 | Single Number | LeetCode | Easy | [Check Solution](./LeetCode/Easy/19-Single-Number/solution.js) |
 | 20 | Valid Palindrome | LeetCode | Easy | [Check Solution](./LeetCode/Easy/20-Valid-Palindrome/solution.js) |
+| 21 | Linked List Cycle | LeetCode | Easy | [Check Solution](./LeetCode/Easy/21-Linked-List-Cycle/solution.js) |
+| 22 | Same Tree | LeetCode | Easy | [Check Solution](./LeetCode/Easy/22-Same-Tree/solution.js) |
+| 23 | Path Sum | LeetCode | Easy | [Check Solution](./LeetCode/Easy/23-Path-Sum/solution.js) |
+| 24 | Excel Sheet Column Title | LeetCode | Easy | [Check Solution](./LeetCode/Easy/24-Excel-Sheet-Column-Title/solution.js) |
+| 25 | Majority Element | LeetCode | Easy | [Check Solution](./LeetCode/Easy/25-Majority-Element/solution.js) |

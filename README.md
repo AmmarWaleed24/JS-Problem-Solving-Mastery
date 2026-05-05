@@ -28,3 +28,8 @@ A curated collection of coding challenges solved with JavaScript, focusing on op
 | 23 | Path Sum | LeetCode | Easy | [Check Solution](./LeetCode/Easy/23-Path-Sum/solution.js) |
 | 24 | Excel Sheet Column Title | LeetCode | Easy | [Check Solution](./LeetCode/Easy/24-Excel-Sheet-Column-Title/solution.js) |
 | 25 | Majority Element | LeetCode | Easy | [Check Solution](./LeetCode/Easy/25-Majority-Element/solution.js) |
+| 26 | Longest Common Prefix | LeetCode | Easy | [Check Solution](./LeetCode/Easy/26-Longest-Common-Prefix/solution.js) |
+| 27 | Length of Last Word | LeetCode | Easy | [Check Solution](./LeetCode/Easy/27-Length-of-Last-Word/solution.js) |
+| 28 | Plus One | LeetCode | Easy | [Check Solution](./LeetCode/Easy/28-Plus-One/solution.js) |
+| 29 | Reverse Linked List | LeetCode | Easy | [Check Solution](./LeetCode/Easy/29-Reverse-Linked-List/solution.js) |
+| 30 | Invert Binary Tree | LeetCode | Easy | [Check Solution](./LeetCode/Easy/30-Invert-Binary-Tree/solution.js) |

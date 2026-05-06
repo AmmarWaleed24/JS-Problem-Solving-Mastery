@@ -33,3 +33,13 @@ A curated collection of coding challenges solved with JavaScript, focusing on op
 | 28 | Plus One | LeetCode | Easy | [Check Solution](./LeetCode/Easy/28-Plus-One/solution.js) |
 | 29 | Reverse Linked List | LeetCode | Easy | [Check Solution](./LeetCode/Easy/29-Reverse-Linked-List/solution.js) |
 | 30 | Invert Binary Tree | LeetCode | Easy | [Check Solution](./LeetCode/Easy/30-Invert-Binary-Tree/solution.js) |
+| 31 | Minimum Depth of Binary Tree | LeetCode | Easy | [Check Solution](./LeetCode/Easy/31-Minimum-Depth-of-Binary-Tree/solution.js) |
+| 32 | Balanced Binary Tree | LeetCode | Easy | [Check Solution](./LeetCode/Easy/32-Balanced-Binary-Tree/solution.js) |
+| 33 | Binary Tree Postorder Traversal | LeetCode | Easy | [Check Solution](./LeetCode/Easy/33-Postorder-Traversal/solution.js) |
+| 34 | Missing Number | LeetCode | Easy | [Check Solution](./LeetCode/Easy/34-Missing-Number/solution.js) |
+| 35 | Valid Anagram | LeetCode | Easy | [Check Solution](./LeetCode/Easy/35-Valid-Anagram/solution.js) |
+| 36 | Search Insert Position | LeetCode | Easy | [Check Solution](./LeetCode/Easy/36-Search-Insert-Position/solution.js) |
+| 37 | Palindrome Linked List | LeetCode | Easy | [Check Solution](./LeetCode/Easy/37-Palindrome-Linked-List/solution.js) |
+| 38 | Move Zeroes | LeetCode | Easy | [Check Solution](./LeetCode/Easy/38-Move-Zeroes/solution.js) |
+| 39 | Intersection of Two Arrays II | LeetCode | Easy | [Check Solution](./LeetCode/Easy/39-Intersection-of-Two-Arrays-II/solution.js) |
+| 40 | Is Subsequence | LeetCode | Easy | [Check Solution](./LeetCode/Easy/40-Is-Subsequence/solution.js) |

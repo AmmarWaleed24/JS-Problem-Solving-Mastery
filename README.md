@@ -42,4 +42,4 @@ A curated collection of coding challenges solved with JavaScript, focusing on op
 | 37 | Palindrome Linked List | LeetCode | Easy | [Check Solution](./LeetCode/Easy/37-Palindrome-Linked-List/solution.js) |
 | 38 | Move Zeroes | LeetCode | Easy | [Check Solution](./LeetCode/Easy/38-Move-Zeroes/solution.js) |
 | 39 | Intersection of Two Arrays II | LeetCode | Easy | [Check Solution](./LeetCode/Easy/39-Intersection-of-Two-Arrays-II/solution.js) |
-| 40 | Is Subsequence | LeetCode | Easy | [Check Solution](./LeetCode/Easy/40-Is-Subsequence/solution.js) |
+| 40 | Is Subsequence | LeetCodee | Easy | [Check Solution](./LeetCode/Easy/40-Is-Subsequence/solution.js) |
